@@ -9,7 +9,7 @@ The user can also choose an already existing vehicle, and perform various action
 To install dependencies, run: npm i
 
 ## Usage
-To see how to use this application, please watch this [video]()
+To see how to use this application, please watch this [video](https://drive.google.com/file/d/1qiqQZjEuUoIXlou26ksJKVGdOpPU53va/view)
 
 ## Questions
 if you have any questions, please reach out via [e-mail](mailto:jensenbret13@gmail.com) or [GitHub](https://github.com/bretaj)
